@@ -1,0 +1,2 @@
+Câu hỏi phản biện
+Nếu cả $_SESSION và $_COOKIE đều sử dụng Cookie để truyền tải thông tin giữa Client và Server, vậy $_SESSION đã làm gì khác để trở nên an toàn hơn $_COOKIE trong việc lưu trữ dữ liệu?
