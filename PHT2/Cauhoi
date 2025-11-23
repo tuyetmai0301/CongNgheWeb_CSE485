@@ -1,0 +1,2 @@
+Câu hỏi phản biện
+Trong PHP, chúng ta dùng dấu chấm (.) để nối chuỗi (echo "Tuổi: " . \$tuoi;), trong khi các ngôn ngữ khác như JavaScript lại dùng dấu cộng (+). Việc PHP chọn dùng dấu chấm thay vì dấu cộng có ý nghĩa gì về mặt phân biệt toán tử trong ngôn ngữ này, và nó giúp tránh nhầm lẫn gì so với khi dùng dấu cộng?
