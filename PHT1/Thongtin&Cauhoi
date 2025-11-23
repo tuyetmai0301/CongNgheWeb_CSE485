@@ -1,0 +1,6 @@
+1.Thông tin trích xuất
+Request URL: http://tlu.edu.vn/
+Request Method: GET
+Status Code: 200 OK
+2.Câu hỏi phản biện 
+Sau khi em F5 và check tab Network, em thấy request đầu tiên luôn trả về một Status Code (như 200, 404, 500) kèm theo nội dung. Vậy, tại sao cái Status Code đó lại là một tiêu chuẩn bắt buộc phải có trong giao thức HTTP?
