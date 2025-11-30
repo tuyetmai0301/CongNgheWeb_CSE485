@@ -1,0 +1,2 @@
+Câu hỏi biện luận:
+Nếu chapter4.php xử lý cả HTML và logic nhận POST, nó thuộc vai trò View hay Controller? Tại sao nên tách hai vai trò này ra hai file riêng?
